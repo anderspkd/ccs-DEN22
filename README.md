@@ -15,8 +15,7 @@ The code in this repository is written in C++ and targets C++17. support for
 AES-NI is required for the PRG to work (see `src/frn/lib/primitives/prg.cc`).
 
 Code directly related to the protocol is located in `src/frn/`, while code in
-`src/frn/lib` contain various auxiliary code that was copied from another
-private repositry so as ensure the anonymity of this submission.
+`src/frn/lib` contain various auxiliary code.
 
 ## Building
 
